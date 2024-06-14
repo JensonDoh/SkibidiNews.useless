@@ -1,0 +1,64 @@
+body {
+    font-size: 15pt;
+    background-color: lightslategrey;
+    color: white;
+    padding: 50px;
+    margin: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 50;
+}
+
+.battan {
+  margin: auto;
+  text-align: center;
+  display: block;
+  margin-top: 2px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: darkslategrey;
+  border-radius: 20px;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  border: none;
+  outline: none;
+  text-decoration: none;
+}
+
+div {
+  margin-top: 50px;
+}
+
+#first {
+  margin-top: 1px;
+}
+
+#newsheadline {
+  margin: 12px;
+  margin-bottom: 0px;
+  padding: 13px;
+  padding-bottom: 0px;
+  text-align: center;
+}
+
+.paragraphhead {
+margin: 12px;
+  margin-top: 0px;
+  padding: 13px;
+  padding-top: 0px;
+  text-align: center;
+  margin-bottom: 2px;
+  padding-bottom: 2px;
+}
+
+#wowzers {
+  font-size: 8px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+hr {
+  margin-bottom: 15px;
+}

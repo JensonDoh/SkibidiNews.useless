@@ -1,0 +1,64 @@
+body {
+  font-family: 'Courier New', Courier, monospace
+}
+
+.them {
+  width: 300px;
+  height: 200px;
+}
+
+#by {
+  margin-top: 0px;
+  padding-top: 0px;
+  border-top: 0px;
+}
+
+p {
+  margin-bottom: 23px;
+  line-height: 1.5em;
+}
+
+blockquote {
+  display: block;
+  border-left: solid 4.5px;
+  font-style: italic;
+  border-color: black;
+  margin-left: 5px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 7px;
+}
+
+.blockquote {
+  text-align: right;
+  margin-right: 14.5px;
+}
+
+.container {
+  display: grid;
+    grid-template-columns: auto 1fr;
+    grid-gap: 10px; /* Adjust the value to add space between the image and text */
+    align-items: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  text-decoration: underline;
+  font-weight: bold;
+  font-style: italic;
+  display: inline-block;
+}
+
+footer {
+  margin-top: 12px;
+}
+
+hr {
+  margin-top: 30px;
+}
+
+span {
+  text-decoration: underline;
+  font-weight: bolder;
+}
